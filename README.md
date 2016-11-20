@@ -19,3 +19,6 @@ Instructions to debug server:
 - Next open Notes API Solution File (NotesAPI.sln at the top directory)
 - Verify that the Startup Project is specified as the APJISelfHostConsoleApp and then debug application
 (You can now send Post and Get commands to the server to create and retrieve notes using Curl, postman, or your favorite JSON interface)
+
+
+To change the localhost port, navigate to the "Program.cs" file in the APISelfHostConsolApp project and you can change the baseAddress to your liking. 

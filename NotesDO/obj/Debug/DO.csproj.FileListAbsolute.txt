@@ -1,0 +1,5 @@
+C:\Users\lozoo\Documents\GitHub\NotesAPI\NotesDO\bin\Debug\NotesDO.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\NotesDO\bin\Debug\NotesDO.pdb
+C:\Users\lozoo\Documents\GitHub\NotesAPI\NotesDO\obj\Debug\DO.csprojResolveAssemblyReference.cache
+C:\Users\lozoo\Documents\GitHub\NotesAPI\NotesDO\obj\Debug\NotesDO.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\NotesDO\obj\Debug\NotesDO.pdb

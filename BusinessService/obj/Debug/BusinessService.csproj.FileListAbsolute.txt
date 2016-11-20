@@ -1,0 +1,10 @@
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\BusinessService.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\BusinessService.pdb
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\obj\Debug\BusinessService.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\obj\Debug\BusinessService.pdb
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\NotesDO.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\NotesDO.pdb
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\DAL.dll
+C:\Users\lozoo\Documents\GitHub\NotesAPI\BusinessService\bin\Debug\DAL.pdb

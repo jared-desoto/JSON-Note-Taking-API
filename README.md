@@ -2,10 +2,10 @@
 RESTful JSON note-taking api to post and get notes
 
 Instructions to easily run server:
--Navigate to the NotesAPI folder
--Navigate to the bin folder
--Run the NotesAPI.exe file
--Now the API server is running on localhost:8080
+- Navigate to the NotesAPI folder
+- Navigate to the bin folder
+- Run the NotesAPI.exe file
+- Now the API server is running on localhost:8080
 (You can now send Post and Get commands to the server to create and retrieve notes using Curl, postman, or your favorite JSON interface)
 
 Instructions to debug server:

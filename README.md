@@ -22,3 +22,8 @@ Instructions to debug server:
 
 
 To change the localhost port, navigate to the "Program.cs" file in the APISelfHostConsolApp project and you can change the baseAddress to your liking. 
+
+
+Ways to Improve:
+- Implement Database Design so notes will be saved even after closing the server
+- Implement Validations to validate that upon post, the input JSON is in correct format and return error message signaling what is wrong.
